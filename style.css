@@ -7,7 +7,7 @@ body {
 .todo-container {
     background-color: #fff;
     border-radius: 5px;
-    padding: 20px;
+    padding: 15px;
     max-width: 500px;
     margin: 0 auto;
 }
@@ -18,7 +18,7 @@ body {
 }
 
 #todo-list li {
-    padding: 10px;
+    padding: 15px;
     border: 1px solid #ddd;
     margin-bottom: 10px;
     position: relative;
@@ -32,6 +32,6 @@ body {
 #todo-list li button {
     position: absolute;
     right: 0;
-    top: 50%;
+    top: 30%;
     transform: translateY(-50%);
 }
